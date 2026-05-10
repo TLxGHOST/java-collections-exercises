@@ -18,15 +18,14 @@ Each exercise comes with a solution to help you understand the concepts and impl
 How to Use
 1. Clone the repository to your local machine:
 
-bash
-Copy code
+```
 git clone https://github.com/ajayrajpootcs/java-collections-exercises.git
-
+```
 2. Navigate to the specific exercise folder you want to work on:
 
-bash
-Copy code
+```
 cd java-collections-exercises/ArrayListExercises
+```
 
 3. Open the exercise file and follow the instructions for implementation.
 
